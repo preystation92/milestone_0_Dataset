@@ -1,297 +1,212 @@
 [
   {
-    "id": 1,
+    "id": "sv3pt5-1",
     "name": "Bulbasaur",
     "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
-    "height": 0.7,
-    "isLegendary": false,
-    "firstAppearance": "1996-02-27",
-    "imageUrl": "",
-    "rarity": "common",
-    "abilities": [
-      "overgrow",
-      "chlorophyll"
+    "hp": 70,
+    "isHolofoil": false,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://images.pokemontcg.io/sv3pt5/1.png",
+    "rarity": "Common",
+    "attacks": [
+      "Tackle",
+      "Vine Whip"
     ],
-    "primaryType": {
+    "cardType": {
       "id": 101,
       "name": "Grass",
       "color": "green",
-      "description": "Plants and nature-based Pokémon. Strong against Water, Ground, and Rock.",
-      "iconUrl": "",
-      "strongAgainst": [
-        "Water",
-        "Ground",
-        "Rock"
-      ],
-      "weakAgainst": [
-        "Fire",
-        "Ice",
-        "Poison",
-        "Flying",
-        "Bug"
-      ]
+      "weakness": "Fire",
+      "resistance": "Water"
     }
   },
   {
-    "id": 4,
+    "id": "sv3pt5-3",
+    "name": "Venusaur ex",
+    "description": "Its flower is said to take on vivid colors if it gets plenty of nutrition and sunlight.",
+    "hp": 340,
+    "isHolofoil": true,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://images.pokemontcg.io/sv3pt5/3.png",
+    "rarity": "Double Rare ex",
+    "attacks": [
+      "Dangerous Jungle",
+      "Solar Cyclone"
+    ],
+    "cardType": {
+      "id": 101,
+      "name": "Grass",
+      "color": "green",
+      "weakness": "Fire",
+      "resistance": "Water"
+    }
+  },
+  {
+    "id": "sv3pt5-4",
     "name": "Charmander",
     "description": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
-    "height": 0.6,
-    "isLegendary": false,
-    "firstAppearance": "1996-02-27",
-    "imageUrl": "",
-    "rarity": "common",
-    "abilities": [
-      "blaze",
-      "solar-power"
+    "hp": 60,
+    "isHolofoil": false,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://images.pokemontcg.io/sv3pt5/4.png",
+    "rarity": "Common",
+    "attacks": [
+      "Ember",
+      "Scratch"
     ],
-    "primaryType": {
+    "cardType": {
       "id": 102,
       "name": "Fire",
       "color": "red",
-      "description": "Fire-based Pokémon. Strong against Grass, Ice, Bug, and Steel.",
-      "iconUrl": "",
-      "strongAgainst": [
-        "Grass",
-        "Ice",
-        "Bug",
-        "Steel"
-      ],
-      "weakAgainst": [
-        "Water",
-        "Ground",
-        "Rock"
-      ]
+      "weakness": "Water",
+      "resistance": "Grass"
     }
   },
   {
-    "id": 7,
-    "name": "Squirtle",
-    "description": "After birth, its back swells and hardens into a shell. It hides in its shell when threatened.",
-    "height": 0.5,
-    "isLegendary": false,
-    "firstAppearance": "1996-02-27",
-    "imageUrl": "",
-    "rarity": "common",
-    "abilities": [
-      "torrent",
-      "rain-dish"
+    "id": "sv3pt5-6",
+    "name": "Charizard ex",
+    "description": "When its life force is running low, it can no longer maintain its internal temperature and will die.",
+    "hp": 330,
+    "isHolofoil": true,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://images.pokemontcg.io/sv3pt5/6.png",
+    "rarity": "Double Rare ex",
+    "attacks": [
+      "Crimson Storm",
+      "Burning Darkness"
     ],
-    "primaryType": {
+    "cardType": {
+      "id": 102,
+      "name": "Fire",
+      "color": "red",
+      "weakness": "Water",
+      "resistance": "Grass"
+    }
+  },
+  {
+    "id": "sv3pt5-7",
+    "name": "Squirtle",
+    "description": "It shelters itself in its shell, then strikes at the opponent with its head.",
+    "hp": 60,
+    "isHolofoil": false,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://images.pokemontcg.io/sv3pt5/7.png",
+    "rarity": "Common",
+    "attacks": [
+      "Withdraw",
+      "Water Gun"
+    ],
+    "cardType": {
       "id": 103,
       "name": "Water",
       "color": "blue",
-      "description": "Water-based Pokémon. Strong against Fire, Ground, and Rock.",
-      "iconUrl": "",
-      "strongAgainst": [
-        "Fire",
-        "Ground",
-        "Rock"
-      ],
-      "weakAgainst": [
-        "Grass",
-        "Electric"
-      ]
+      "weakness": "Lightning",
+      "resistance": "Fire"
     }
   },
   {
-    "id": 25,
+    "id": "sv3pt5-9",
+    "name": "Blastoise ex",
+    "description": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+    "hp": 330,
+    "isHolofoil": true,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://images.pokemontcg.io/sv3pt5/9.png",
+    "rarity": "Double Rare ex",
+    "attacks": [
+      "Twin Cannons",
+      "Hydro Launcher"
+    ],
+    "cardType": {
+      "id": 103,
+      "name": "Water",
+      "color": "blue",
+      "weakness": "Lightning",
+      "resistance": "Fire"
+    }
+  },
+  {
+    "id": "sv3pt5-25",
     "name": "Pikachu",
-    "description": "Pikachu that can generate powerful electricity have a cheek sac that's extra soft and elastic.",
-    "height": 0.4,
-    "isLegendary": false,
-    "firstAppearance": "1996-02-27",
-    "imageUrl": "",
-    "rarity": "rare",
-    "abilities": [
-      "static",
-      "lightning-rod"
+    "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and elastic.",
+    "hp": 60,
+    "isHolofoil": false,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://images.pokemontcg.io/sv3pt5/25.png",
+    "rarity": "Common",
+    "attacks": [
+      "Thunder Jolt",
+      "Circle Circuit"
     ],
-    "primaryType": {
+    "cardType": {
       "id": 104,
-      "name": "Electric",
+      "name": "Lightning",
       "color": "yellow",
-      "description": "Electricity-based Pokémon. Strong against Water and Flying.",
-      "iconUrl": "",
-      "strongAgainst": [
-        "Water",
-        "Flying"
-      ],
-      "weakAgainst": [
-        "Ground"
-      ]
+      "weakness": "Fighting",
+      "resistance": "Steel"
     }
   },
   {
-    "id": 133,
-    "name": "Eevee",
-    "description": "Its ability to evolve into many forms allows it to adapt to any environment.",
-    "height": 0.3,
-    "isLegendary": false,
-    "firstAppearance": "1996-02-27",
-    "imageUrl": "",
-    "rarity": "rare",
-    "abilities": [
-      "run-away",
-      "adaptability",
-      "anticipation"
+    "id": "sv3pt5-150",
+    "name": "Mew ex",
+    "description": "Because it is able to use all kinds of moves, some people began research to see if it is the ancestor of all Pokémon.",
+    "hp": 180,
+    "isHolofoil": true,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://images.pokemontcg.io/sv3pt5/151.png",
+    "rarity": "Double Rare ex",
+    "attacks": [
+      "Genome Hacking",
+      "Psyshot"
     ],
-    "primaryType": {
-      "id": 105,
-      "name": "Normal",
-      "color": "gray",
-      "description": "Basic Pokémon without elemental affinity.",
-      "iconUrl": "",
-      "strongAgainst": [],
-      "weakAgainst": [
-        "Fighting"
-      ]
-    }
-  },
-  {
-    "id": 150,
-    "name": "Mewtwo",
-    "description": "Its DNA is almost the same as Mew's. However, it has undergone mutation.",
-    "height": 2.0,
-    "isLegendary": true,
-    "firstAppearance": "1996-02-27",
-    "imageUrl": "",
-    "rarity": "legendary",
-    "abilities": [
-      "pressure",
-      "unnerve"
-    ],
-    "primaryType": {
+    "cardType": {
       "id": 106,
       "name": "Psychic",
       "color": "purple",
-      "description": "Mind-based Pokémon. Strong against Fighting and Poison.",
-      "iconUrl": "",
-      "strongAgainst": [
-        "Fighting",
-        "Poison"
-      ],
-      "weakAgainst": [
-        "Bug",
-        "Ghost",
-        "Dark"
-      ]
+      "weakness": "Darkness",
+      "resistance": "Fighting"
     }
   },
   {
-    "id": 384,
-    "name": "Rayquaza",
-    "description": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
-    "height": 7.0,
-    "isLegendary": true,
-    "firstAppearance": "2002-11-21",
-    "imageUrl": "",
-    "rarity": "legendary",
-    "abilities": [
-      "air-lock"
+    "id": "sv3pt5-151",
+    "name": "Mew ex",
+    "description": "Its DNA is said to contain the genetic codes of all Pokémon.",
+    "hp": 180,
+    "isHolofoil": true,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://images.pokemontcg.io/sv3pt5/151_hires.png",
+    "rarity": "Special Illustration Rare",
+    "attacks": [
+      "Psyche Out",
+      "Genome Hacking"
     ],
-    "primaryType": {
-      "id": 107,
-      "name": "Dragon",
-      "color": "teal",
-      "description": "Ancient and powerful Pokémon. Strong against Dragon.",
-      "iconUrl": "",
-      "strongAgainst": [
-        "Dragon"
-      ],
-      "weakAgainst": [
-        "Ice",
-        "Dragon",
-        "Fairy"
-      ]
+    "cardType": {
+      "id": 106,
+      "name": "Psychic",
+      "color": "purple",
+      "weakness": "Darkness",
+      "resistance": "Fighting"
     }
   },
   {
-    "id": 658,
-    "name": "Greninja",
-    "description": "It creates a veil of water around itself that hides it from enemies.",
-    "height": 1.5,
-    "isLegendary": false,
-    "firstAppearance": "2013-10-12",
-    "imageUrl": "",
-    "rarity": "rare",
-    "abilities": [
-      "torrent",
-      "protean"
+    "id": "sv3pt5-63",
+    "name": "Abra",
+    "description": "It sleeps for 18 hours a day. It uses a variety of extrasensory powers to levitate objects.",
+    "hp": 50,
+    "isHolofoil": false,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://images.pokemontcg.io/sv3pt5/63.png",
+    "rarity": "Common",
+    "attacks": [
+      "Teleport",
+      "Psybeam"
     ],
-    "primaryType": {
-      "id": 103,
-      "name": "Water",
-      "color": "blue",
-      "description": "Water-based Pokémon. Strong against Fire, Ground, and Rock.",
-      "iconUrl": "",
-      "strongAgainst": [
-        "Fire",
-        "Ground",
-        "Rock"
-      ],
-      "weakAgainst": [
-        "Grass",
-        "Electric"
-      ]
-    }
-  },
-  {
-    "id": 809,
-    "name": "Melmetal",
-    "description": "It can harden its body by absorbing electricity and other metals.",
-    "height": 2.5,
-    "isLegendary": false,
-    "firstAppearance": "2018-11-16",
-    "imageUrl": "",
-    "rarity": "mythical",
-    "abilities": [
-      "iron-fist"
-    ],
-    "primaryType": {
-      "id": 108,
-      "name": "Steel",
-      "color": "silver",
-      "description": "Metal-based Pokémon. Strong against Ice, Rock, and Fairy.",
-      "iconUrl": "",
-      "strongAgainst": [
-        "Ice",
-        "Rock",
-        "Fairy"
-      ],
-      "weakAgainst": [
-        "Fire",
-        "Fighting",
-        "Ground"
-      ]
-    }
-  },
-  {
-    "id": 1008,
-    "name": "Walking Wake",
-    "description": "A mysterious creature that resembles an ancient Pokémon.",
-    "height": 3.5,
-    "isLegendary": true,
-    "firstAppearance": "2023-02-27",
-    "imageUrl": "",
-    "rarity": "legendary",
-    "abilities": [
-      "protosynthesis"
-    ],
-    "primaryType": {
-      "id": 109,
-      "name": "Dragon",
-      "color": "teal",
-      "description": "Ancient and powerful Pokémon. Strong against Dragon.",
-      "iconUrl": "",
-      "strongAgainst": [
-        "Dragon"
-      ],
-      "weakAgainst": [
-        "Ice",
-        "Dragon",
-        "Fairy"
-      ]
+    "cardType": {
+      "id": 106,
+      "name": "Psychic",
+      "color": "purple",
+      "weakness": "Darkness",
+      "resistance": "Fighting"
     }
   }
 ]

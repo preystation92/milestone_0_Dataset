@@ -1,0 +1,153 @@
+[
+  {
+    "id": 501,
+    "name": "Scarlet & Violet—151 Elite Trainer Box",
+    "boxType": "Elite Trainer Box",
+    "description": "A premium storage box with Kanto-themed artwork, containing booster packs, accessories, and a full-art promo card celebrating the original 151 Pokémon.",
+    "releaseDate": "2023-09-22",
+    "boosterPacks": 9,
+    "includedAccessories": [
+      "65 card sleeves",
+      "full-art promo card",
+      "player's guide",
+      "dice set",
+      "damage counters",
+      "storage box"
+    ],
+    "priceUSD": 49.99,
+    "isLimitedEdition": false,
+    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/sv151-etb.jpg"
+  },
+  {
+    "id": 502,
+    "name": "Scarlet & Violet—Shrouded Fable Elite Trainer Box",
+    "boxType": "Elite Trainer Box",
+    "description": "Features Pecharunt ex and the Loyal Three with nightfall theme, including booster packs and useful TCG accessories.",
+    "releaseDate": "2024-08-02",
+    "boosterPacks": 9,
+    "includedAccessories": [
+      "card sleeves",
+      "promo card Pecharunt",
+      "dice",
+      "condition markers"
+    ],
+    "priceUSD": 49.99,
+    "isLimitedEdition": false,
+    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/sv-shrouded-fable-etb.jpg"
+  },
+  {
+    "id": 503,
+    "name": "Scarlet & Violet—Prismatic Evolutions Pokémon Center Elite Trainer Box",
+    "boxType": "Elite Trainer Box",
+    "description": "Exclusive version with additional bonuses for collectors, focused on Prismatic Evolutions theme.",
+    "releaseDate": "2025",
+    "boosterPacks": 11,
+    "includedAccessories": [
+      "extra promo cards",
+      "premium sleeves",
+      "accessories"
+    ],
+    "priceUSD": 59.99,
+    "isLimitedEdition": true,
+    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/prismatic-evolutions-etb-pokemon-center.jpg"
+  },
+  {
+    "id": 504,
+    "name": "Mega Evolution—Ascended Heroes Elite Trainer Box",
+    "boxType": "Elite Trainer Box",
+    "description": "Contains booster packs from the Mega Evolution expansion with Mega Pokémon ex promos and full accessories.",
+    "releaseDate": "2026-01-30",
+    "boosterPacks": 9,
+    "includedAccessories": [
+      "full-art promo",
+      "65 sleeves",
+      "dice",
+      "coin",
+      "player's guide"
+    ],
+    "priceUSD": 49.99,
+    "isLimitedEdition": false,
+    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/mega-ascended-heroes-etb.jpg"
+  },
+  {
+    "id": 505,
+    "name": "Scarlet & Violet—151 Booster Bundle",
+    "boxType": "Booster Bundle",
+    "description": "Six booster packs bundled together for convenient purchasing from the 151 set.",
+    "releaseDate": "2023-09-22",
+    "boosterPacks": 6,
+    "includedAccessories": [],
+    "priceUSD": 29.99,
+    "isLimitedEdition": false,
+    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/sv151-booster-bundle.jpg"
+  },
+  {
+    "id": 506,
+    "name": "Standard English Booster Box (Generic)",
+    "boxType": "Booster Box",
+    "description": "Full sealed case containing 36 booster packs from a standard expansion set.",
+    "releaseDate": "Ongoing",
+    "boosterPacks": 36,
+    "includedAccessories": [],
+    "priceUSD": 119.99,
+    "isLimitedEdition": false,
+    "imageUrl": "https://rarecandy.com/assets/booster-box-example.jpg"
+  },
+  {
+    "id": 507,
+    "name": "Mega Evolution—Ascended Heroes Booster Bundle",
+    "boxType": "Booster Bundle",
+    "description": "Bundle of booster packs for the Mega Evolution expansion.",
+    "releaseDate": "2026",
+    "boosterPacks": 6,
+    "includedAccessories": [],
+    "priceUSD": 29.99,
+    "isLimitedEdition": false,
+    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/mega-booster-bundle.jpg"
+  },
+  {
+    "id": 508,
+    "name": "Pokémon Day 2026 Collection Box",
+    "boxType": "Collection Box",
+    "description": "Special collection with promo cards and booster packs for Pokémon Day celebration.",
+    "releaseDate": "2026",
+    "boosterPacks": 4,
+    "includedAccessories": [
+      "promo cards",
+      "accessories"
+    ],
+    "priceUSD": 39.99,
+    "isLimitedEdition": true,
+    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/pokemon-day-2026-box.jpg"
+  },
+  {
+    "id": 509,
+    "name": "Mega Evolution—Ascended Heroes Mini Tin",
+    "boxType": "Mini Tin",
+    "description": "Small tin with artwork, containing booster packs and a sticker sheet.",
+    "releaseDate": "2026",
+    "boosterPacks": 2,
+    "includedAccessories": [
+      "sticker sheet",
+      "art card"
+    ],
+    "priceUSD": 14.99,
+    "isLimitedEdition": false,
+    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/mega-mini-tin.jpg"
+  },
+  {
+    "id": 510,
+    "name": "Scarlet & Violet—Prismatic Evolutions Poster Collection",
+    "boxType": "Poster Collection",
+    "description": "Collection with posters and booster packs from Prismatic Evolutions.",
+    "releaseDate": "2025",
+    "boosterPacks": 4,
+    "includedAccessories": [
+      "posters",
+      "promo items"
+    ],
+    "priceUSD": 34.99,
+    "isLimitedEdition": false,
+    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/prismatic-poster-collection.jpg"
+  }
+]
