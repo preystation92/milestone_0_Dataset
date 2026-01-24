@@ -6,7 +6,7 @@
     "hp": 70,
     "isHolofoil": false,
     "releaseDate": "2023-09-22",
-    "imageUrl": "https://images.pokemontcg.io/sv3pt5/1.png",
+    "imageUrl": "https://raw.githubusercontent.com/preystation92/milestone_0-25-26/refs/heads/main/Images/pokemonCards/sv3pt5-1-bulbasaur.png",
     "rarity": "Common",
     "attacks": [
       "Tackle",
@@ -27,7 +27,7 @@
     "hp": 340,
     "isHolofoil": true,
     "releaseDate": "2023-09-22",
-    "imageUrl": "https://images.pokemontcg.io/sv3pt5/3.png",
+    "imageUrl": "https://raw.githubusercontent.com/preystation92/milestone_0-25-26/refs/heads/main/Images/pokemonCards/sv3pt5-3-venusaur-ex.png",
     "rarity": "Double Rare ex",
     "attacks": [
       "Dangerous Jungle",
@@ -48,7 +48,7 @@
     "hp": 60,
     "isHolofoil": false,
     "releaseDate": "2023-09-22",
-    "imageUrl": "https://images.pokemontcg.io/sv3pt5/4.png",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-4-charmander.png?raw=true",
     "rarity": "Common",
     "attacks": [
       "Ember",
@@ -69,7 +69,7 @@
     "hp": 330,
     "isHolofoil": true,
     "releaseDate": "2023-09-22",
-    "imageUrl": "https://images.pokemontcg.io/sv3pt5/6.png",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-6-charizard-ex.png?raw=true",
     "rarity": "Double Rare ex",
     "attacks": [
       "Crimson Storm",
@@ -90,7 +90,7 @@
     "hp": 60,
     "isHolofoil": false,
     "releaseDate": "2023-09-22",
-    "imageUrl": "https://images.pokemontcg.io/sv3pt5/7.png",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-7-squirtle.png?raw=true",
     "rarity": "Common",
     "attacks": [
       "Withdraw",
@@ -111,7 +111,7 @@
     "hp": 330,
     "isHolofoil": true,
     "releaseDate": "2023-09-22",
-    "imageUrl": "https://images.pokemontcg.io/sv3pt5/9.png",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-9-blastoise-ex.png?raw=true",
     "rarity": "Double Rare ex",
     "attacks": [
       "Twin Cannons",
@@ -132,7 +132,7 @@
     "hp": 60,
     "isHolofoil": false,
     "releaseDate": "2023-09-22",
-    "imageUrl": "https://images.pokemontcg.io/sv3pt5/25.png",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-25-pikachu.png?raw=true",
     "rarity": "Common",
     "attacks": [
       "Thunder Jolt",
@@ -153,7 +153,7 @@
     "hp": 180,
     "isHolofoil": true,
     "releaseDate": "2023-09-22",
-    "imageUrl": "https://images.pokemontcg.io/sv3pt5/151.png",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-151-mew-ex-hires.png?raw=true",
     "rarity": "Double Rare ex",
     "attacks": [
       "Genome Hacking",
@@ -174,7 +174,7 @@
     "hp": 180,
     "isHolofoil": true,
     "releaseDate": "2023-09-22",
-    "imageUrl": "https://images.pokemontcg.io/sv3pt5/151_hires.png",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-151-mew-ex-hires.png?raw=true",
     "rarity": "Special Illustration Rare",
     "attacks": [
       "Psyche Out",
@@ -195,7 +195,7 @@
     "hp": 50,
     "isHolofoil": false,
     "releaseDate": "2023-09-22",
-    "imageUrl": "https://images.pokemontcg.io/sv3pt5/63.png",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-63-abra.png?raw=true",
     "rarity": "Common",
     "attacks": [
       "Teleport",
