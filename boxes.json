@@ -14,7 +14,7 @@
       "damage counters",
       "storage box"
     ],
-    "priceUSD": 49.99,
+    "priceEURO": 49.99,
     "isLimitedEdition": false,
     "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/sv151-etb.jpg"
   },
@@ -31,7 +31,7 @@
       "dice",
       "condition markers"
     ],
-    "priceUSD": 49.99,
+    "priceEURO": 49.99,
     "isLimitedEdition": false,
     "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/sv-shrouded-fable-etb.jpg"
   },
@@ -47,7 +47,7 @@
       "premium sleeves",
       "accessories"
     ],
-    "priceUSD": 59.99,
+    "priceEURO": 59.99,
     "isLimitedEdition": true,
     "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/prismatic-evolutions-etb-pokemon-center.jpg"
   },
@@ -65,7 +65,7 @@
       "coin",
       "player's guide"
     ],
-    "priceUSD": 49.99,
+    "priceEURO": 49.99,
     "isLimitedEdition": false,
     "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/mega-ascended-heroes-etb.jpg"
   },
@@ -77,7 +77,7 @@
     "releaseDate": "2023-09-22",
     "boosterPacks": 6,
     "includedAccessories": [],
-    "priceUSD": 29.99,
+    "priceEURO": 29.99,
     "isLimitedEdition": false,
     "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/sv151-booster-bundle.jpg"
   },
@@ -89,7 +89,7 @@
     "releaseDate": "Ongoing",
     "boosterPacks": 36,
     "includedAccessories": [],
-    "priceUSD": 119.99,
+    "priceEURO": 119.99,
     "isLimitedEdition": false,
     "imageUrl": "https://rarecandy.com/assets/booster-box-example.jpg"
   },
@@ -101,7 +101,7 @@
     "releaseDate": "2026",
     "boosterPacks": 6,
     "includedAccessories": [],
-    "priceUSD": 29.99,
+    "priceEURO": 29.99,
     "isLimitedEdition": false,
     "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/mega-booster-bundle.jpg"
   },
@@ -116,7 +116,7 @@
       "promo cards",
       "accessories"
     ],
-    "priceUSD": 39.99,
+    "priceEURO": 39.99,
     "isLimitedEdition": true,
     "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/pokemon-day-2026-box.jpg"
   },
@@ -131,7 +131,7 @@
       "sticker sheet",
       "art card"
     ],
-    "priceUSD": 14.99,
+    "priceEURO": 14.99,
     "isLimitedEdition": false,
     "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/mega-mini-tin.jpg"
   },
@@ -146,7 +146,7 @@
       "posters",
       "promo items"
     ],
-    "priceUSD": 34.99,
+    "priceEURO": 34.99,
     "isLimitedEdition": false,
     "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/prismatic-poster-collection.jpg"
   }
