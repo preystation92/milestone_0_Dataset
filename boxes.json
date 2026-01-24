@@ -16,7 +16,7 @@
     ],
     "priceEURO": 49.99,
     "isLimitedEdition": false,
-    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/sv151-etb.jpg"
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonBoxes/501-scarlet-violet-151-etb.jpg?raw=true"
   },
   {
     "id": 502,
@@ -33,7 +33,7 @@
     ],
     "priceEURO": 49.99,
     "isLimitedEdition": false,
-    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/sv-shrouded-fable-etb.jpg"
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonBoxes/502-shrouded-fable-etb.jpg?raw=true"
   },
   {
     "id": 503,
@@ -49,7 +49,7 @@
     ],
     "priceEURO": 59.99,
     "isLimitedEdition": true,
-    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/prismatic-evolutions-etb-pokemon-center.jpg"
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonBoxes/503-prismatic-evolutions-etb-pokemon-center.jpg?raw=true"
   },
   {
     "id": 504,
@@ -67,7 +67,7 @@
     ],
     "priceEURO": 49.99,
     "isLimitedEdition": false,
-    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/mega-ascended-heroes-etb.jpg"
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonBoxes/504-mega-ascended-heroes-etb.jpg?raw=true"
   },
   {
     "id": 505,
@@ -79,7 +79,7 @@
     "includedAccessories": [],
     "priceEURO": 29.99,
     "isLimitedEdition": false,
-    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/sv151-booster-bundle.jpg"
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonBoxes/505-scarlet-violet-151-booster-bundle.jpg?raw=true"
   },
   {
     "id": 506,
@@ -91,7 +91,7 @@
     "includedAccessories": [],
     "priceEURO": 119.99,
     "isLimitedEdition": false,
-    "imageUrl": "https://rarecandy.com/assets/booster-box-example.jpg"
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonBoxes/506-standard-booster-box.jpg?raw=true"
   },
   {
     "id": 507,
@@ -103,7 +103,7 @@
     "includedAccessories": [],
     "priceEURO": 29.99,
     "isLimitedEdition": false,
-    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/mega-booster-bundle.jpg"
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonBoxes/507-mega-booster-bundle.jpg?raw=true"
   },
   {
     "id": 508,
@@ -118,7 +118,7 @@
     ],
     "priceEURO": 39.99,
     "isLimitedEdition": true,
-    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/pokemon-day-2026-box.jpg"
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonBoxes/508-pokemon-day-2026-collection-box.jpg?raw=true"
   },
   {
     "id": 509,
@@ -133,7 +133,7 @@
     ],
     "priceEURO": 14.99,
     "isLimitedEdition": false,
-    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/mega-mini-tin.jpg"
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonBoxes/509-mega-mini-tin.jpg?raw=true"
   },
   {
     "id": 510,
@@ -148,6 +148,6 @@
     ],
     "priceEURO": 34.99,
     "isLimitedEdition": false,
-    "imageUrl": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/assets/prismatic-poster-collection.jpg"
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonBoxes/510-prismatic-poster-collection.jpg?raw=true"
   }
 ]
