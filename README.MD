@@ -1,1 +1,2 @@
-# Milestone 0 : Pokemonkaarten en boxen.
+# Milestone 0 : PokemonCards en pokemonboxen.
+
