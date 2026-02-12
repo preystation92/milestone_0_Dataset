@@ -216,7 +216,7 @@
     "hp": 120,
     "isHolofoil": true,
     "releaseDate": "1999-01-09",
-    "imageUrl": "https://images.pokemontcg.io/base1/4_hires.png",
+    "imageUrl": "https://github.com/preystation92/milestone_0_Dataset/blob/main/Images/pokemonCards/base-charizard.jpg?raw=true",
     "rarity": "Rare Holo",
     "attacks": [
       "Energy Burn",
