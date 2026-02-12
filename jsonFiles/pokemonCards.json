@@ -208,5 +208,26 @@
       "weakness": "Darkness",
       "resistance": "Fighting"
     }
+  },
+  {
+    "id": "base-4",
+    "name": "Charizard",
+    "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+    "hp": 120,
+    "isHolofoil": true,
+    "releaseDate": "1999-01-09",
+    "imageUrl": "https://images.pokemontcg.io/base1/4_hires.png",
+    "rarity": "Rare Holo",
+    "attacks": [
+      "Energy Burn",
+      "Fire Spin"
+    ],
+    "cardType": {
+      "id": 102,
+      "name": "Fire",
+      "color": "red",
+      "weakness": "Water",
+      "resistance": "Fighting"
+    }
   }
 ]

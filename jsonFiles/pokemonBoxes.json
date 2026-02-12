@@ -149,5 +149,13 @@
     "priceEURO": 34.99,
     "isLimitedEdition": false,
     "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonBoxes/510-prismatic-poster-collection.jpg?raw=true"
+  },
+  {
+    "mainBox": {
+      "boxId": 506,
+      "boxName": "Standard English Booster Box (Generic)",
+      "boxType": "Booster Box",
+      "priceEURO": 119.99
+    }
   }
 ]
