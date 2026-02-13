@@ -332,5 +332,26 @@
       "weakness": "Fighting",
       "resistance": "Steel"
     }
+  },
+  {
+    "id": "base-50",
+    "name": "Cubone",
+    "description": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+    "hp": 60,
+    "isHolofoil": false,
+    "releaseDate": "1999-01-09",
+    "imageUrl": "https://images.pokemontcg.io/base1/50_hires.png",
+    "rarity": "Common",
+    "attacks": [
+      "Bonemerang",
+      "Headbutt"
+    ],
+    "cardType": {
+      "id": 109,
+      "name": "Fighting",
+      "color": "brown",
+      "weakness": "Grass",
+      "resistance": "Lightning"
+    }
   }
 ]
