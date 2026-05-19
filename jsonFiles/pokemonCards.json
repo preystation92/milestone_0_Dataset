@@ -394,5 +394,29 @@
       "Thunder Jolt",
       "Circle Circuit"
     ]
+  },
+  {
+    "id": "custom-001",
+    "name": "Burger Pikachu",
+    "description": "A cheerful Pikachu holding a giant burger while generating tiny sparks of electricity.",
+    "hp": 90,
+    "isHolofoil": true,
+    "releaseDate": "2026-05-19",
+    "imageUrl": "https://example.com/images/burger-pikachu.png",
+    "rarity": "Promo",
+    "attacks": [
+      "Burger Bite",
+      "Thunder Ketchup"
+    ],
+    "box": {
+      "id": 999,
+      "name": "Burger Pikachu Special Collection",
+      "boxType": "Collection Box",
+      "releaseDate": "2026-05-19",
+      "boosterPacks": 4,
+      "priceEURO": 29.99,
+      "isLimitedEdition": true,
+      "imageUrl": "https://example.com/images/burger-pikachu-box.png"
+    }
   }
 ]
