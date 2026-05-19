@@ -402,21 +402,11 @@
     "hp": 90,
     "isHolofoil": true,
     "releaseDate": "2026-05-19",
-    "imageUrl": "https://example.com/images/burger-pikachu.png",
+    "imageUrl": "https://raw.githubusercontent.com/preystation92/milestone_0_Dataset/refs/heads/main/Images/pokemonCards/pikachu-burger.jpg",
     "rarity": "Promo",
     "attacks": [
       "Burger Bite",
       "Thunder Ketchup"
-    ],
-    "box": {
-      "id": 999,
-      "name": "Burger Pikachu Special Collection",
-      "boxType": "Collection Box",
-      "releaseDate": "2026-05-19",
-      "boosterPacks": 4,
-      "priceEURO": 29.99,
-      "isLimitedEdition": true,
-      "imageUrl": "https://example.com/images/burger-pikachu-box.png"
-    }
+    ]
   }
 ]
